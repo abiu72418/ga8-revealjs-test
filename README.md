@@ -1,2 +1,1 @@
-# ga8-revealjs-test
-GA8 RevealJS Presentation
+# RevealJS Presentation\n\nSubmitted by: test@example.com
